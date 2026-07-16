@@ -1,0 +1,4 @@
+pyautogen==0.2.35
+streamlit==1.38.0
+duckduckgo-search==6.2.13
+python-dotenv==1.0.1
